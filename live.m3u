@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1--------------MYTV---------------
+#EXTINF:-1, ITA - TV 8 
+https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:-1, ITA - CANALE 5 
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:-1, ITA - ITALIA 1
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1, ITA - Rai 1 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1,ITA - Rai 2 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1, ITA - Rai 3 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1, ITA - Rete 4
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1, ITA - Rai 4 HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1, ITA - Rai 5 HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382
+#EXTINF:-1, ITA - Rai News HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1, ITA - Sport + HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+#EXTINF:-1, ITA - Rai Movie HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72381
+#EXTINF:-1, ITA - Rai Premium HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72383
+#EXTINF:-1, ITA - Rai YOYO HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72384
+#EXTINF:-1, ITA - Rai GULP HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4119
+#EXTINF:-1, ITA - Rai STORIA HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269
+#EXTINF:-1, ITA - Rai SCUOLA HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268
+#EXTINF:-1, ITA - Mediaset Extra
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1, ITA - M4C
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(w1)/index.m3u8
+#EXTINF:-1, ITA - FOCUS
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTINF:-1, ITA - Iris
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1, ITA - 20
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1, ITA - La 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1, ITA - Italia 2
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1, ITA - Top Crime
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1, ITA - BOING
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:-1, ITA - Cartoonito
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1, ITA - Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:-1, ITA - SKY TG24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1, ITA - Real Time HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1564228002~exp=1564314402~acl=/*~hmac=6c0b77c0af71417fd823ef483a0d15c72e267308b83fdcb0e1b2228dba9dd703&mux_audio=true
+#EXTINF:-1, ITA - Nove HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1585746893~exp=1585833293~acl=/i/*~hmac=7aa28aab591fe6ddf8d0480b4f202d3536f6f5b26dedf9d944c35b6320950ca4&mux_audio=true
